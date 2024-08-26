@@ -55,3 +55,8 @@
   font-weight: 600;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.button {
+  display: block;
+  margin: 0 auto;
+}
